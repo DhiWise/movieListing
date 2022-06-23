@@ -26,12 +26,14 @@ and make changes to your App
 
 </div>
 
-  
+## Movie Listing with supabase
+  ![dashboard](https://user-images.githubusercontent.com/108056854/175278107-4ada7d8a-1d0f-4a02-91e1-b8e0e0f92fb3.png)
 
 This application is build on MVVM architecture.
 
 ### About App
 - Login with email and password(credential store in supabase)
+
 - In dashboard listing movie.
 -  navigation support
 -  channel listing from supabase
