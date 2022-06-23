@@ -1,0 +1,1 @@
+enum DashboardPage { home }

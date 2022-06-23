@@ -1,0 +1,1 @@
+class Trending1ItemModel {}
