@@ -33,6 +33,9 @@ This application is build on MVVM architecture.
 
 ### About App
 - Login with email and password(credential store in supabase)
+  - Credentials
+  - Email - kajal.morker@gmail.com
+  - Password - kajal123
 
 - In dashboard listing movie.
 -  navigation support
